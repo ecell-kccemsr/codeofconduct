@@ -123,7 +123,7 @@ function App() {
       <CursorDot />
       <div className="page-shell">
         <header className="hero">
-          <p className="eyebrow">Singularity Hackathon · 2025</p>
+          <p className="eyebrow">Singularity Hackathon · 2026</p>
           <h1>Code of Conduct</h1>
           <p className="lead">
             The Singularity community is most inventive when everyone feels respected, safe, and supported. These principles apply
@@ -208,7 +208,7 @@ function App() {
         </main>
 
         <footer className="footer">
-          <p>Last updated 04 Dec 2025 · Questions? Visit the Safety Desk or talk to any organizer in the ember jacket.</p>
+          <p>Last updated 04 Dec 2026 · Questions? Visit the Safety Desk or talk to any organizer in the ember jacket.</p>
           <p className="footer-note">Breaking these guidelines may result in removal from Singularity Hackathon without refund.</p>
         </footer>
       </div>
